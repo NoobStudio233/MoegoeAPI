@@ -1,6 +1,7 @@
 <div>
     <center>
-        <img src="https://s1.ax1x.com/2023/08/03/pPiELSs.png" alt="pPiELSs.png" style="zoom:20%;" />				<h1>MoeGoeApi</h1>
+        <img src="https://s1.ax1x.com/2023/08/03/pPiELSs.png" alt="pPiELSs.png" style="width:40px;height:40px" />				
+        <h1>MoeGoeApi</h1>
     <center>
 </div>
 
